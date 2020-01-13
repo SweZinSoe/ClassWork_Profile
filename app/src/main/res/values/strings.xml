@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ClassWorkThree</string>
+
+    <string name="big_paragraph">
+        Before you migrate, bring your app up to date.
+        We recommend updating your project to use the final version
+        of the support library: version 28.0.0. This is because AndroidX artifacts with version 1.0.0 are
+        binary equivalent to the Support Library 28.0.0 artifacts.
+    </string>
+
+</resources>
